@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: auto;
+}
+h1 {
+    
+}
+.row {
+    
+}
+.barra {
+    
+}
+.cajaborde1 {
+    border-style: solid;
+    border-color: rgb(110, 110, 181);
+    height: 100px;
+}
+.cajaborde2 {
+    border-style: solid;
+    border-color: rgb(110, 110, 181);
+    height: 100px;
+}
+.cajaborde3 {
+    border-style: solid;
+    border-color: rgb(110, 110, 181);
+    height: 100px;
+}
+.cajaborde4 {
+    border-style: solid;
+    border-color: rgb(110, 110, 181);
+    height: 100px;
+}
+.cajaborde5 {
+    border-style: solid;
+    border-color: rgb(110, 110, 181);
+    height: 100px;
+}
